@@ -29,7 +29,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 A fluent-design style version for Windows 11 has been created, but is still in beta and may not work on Windows 10 or any OS other than Windows 11. 
 
-![Image description](https://i.imgur.com/BqaxAtM.png)
+![Image description](https://i.imgur.com/dLqxiXZ.png)
 
 ## Stuff
 Here is the original source/ link, that will redirect you to the stream.
