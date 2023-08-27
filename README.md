@@ -31,6 +31,12 @@ A fluent-design style version for Windows 11 has been created, but is still in b
 
 ![Image description](https://i.imgur.com/dLqxiXZ.png)
 
+## Screenshots
+
+- PyQT6 version
+
+![PyQT6](https://raw.githubusercontent.com/EvickaStudio/ByteFM-Livestream-Downloader/main/images/pyqt6.png)
+
 ## Stuff
 Here is the original source/ link, that will redirect you to the stream.
 
